@@ -1,4 +1,4 @@
-'use client' 
+/* 'use client' 
 
 import React, { createContext, useContext, ReactNode } from 'react';
 import { createStore } from 'zustand/vanilla';
@@ -35,3 +35,4 @@ export const useInfoStore = <T,>(selector: (state: InfoStore) => T) => {
     }
     return useStore(store, selector);
 };
+ */
