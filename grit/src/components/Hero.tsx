@@ -12,10 +12,10 @@ export const Hero = () => {
             <h1 className="text-[64px] sm:text-8xl font-bold tracking-tighter text-center mt-8 leading-tight inline-flex">Your Journey, Your Future-<br />Find the Perfect School with<br /> Grit.</h1>
             </div>
             <div className="flex justify-center">
-            <p className="text-center text-xl mt-8 max-w-xl">Streamline your med, PA, or CRNA school applications by<br /> matching with programs that fit your unique profile, all <br />while exploring detailed insights on every option with Grit.</p>
+            <p className="text-center text-xl mt-8 max-w-xl">Streamline your med, PA, or CRNA school applications by matching with programs that fit your unique profile, all while exploring detailed insights on every option with Grit.</p>
             </div>
            <div className="flex justify-center mt-8">
-                <button className=" bg-white text-black py-3 px-5 rounded-lg font-medium">Get started</button>
+                <button className="hover:bg-[#c3c7ce] bg-white text-black py-3 px-5 rounded-lg font-medium">Get started</button>
             </div>
             
         </div>
